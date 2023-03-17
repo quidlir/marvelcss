@@ -1,0 +1,72 @@
+body {
+    background-color: burlywood
+}
+h1 {
+    color: black;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 2px 2px 4px white;
+}
+ul {
+color:lawngreen;
+font-size: 20px;
+
+}
+.text-1 {
+color: crimson
+
+}
+.text-2 {
+color: black
+
+}
+.text-3 {
+color: darkblue
+
+}
+.text-4 {
+color: blueviolet
+
+}
+.text-5 {
+color: darkgreen
+
+}
+.text-6 {
+color: lightseagreen
+
+}
+.text-7 {
+color: aqua
+
+}
+.text-8 {
+color: cornflowerblue
+
+}
+.text-9 {
+   color: aquamarine
+    
+}
+.tetx-1 {
+    font-size: 22px;
+    
+}
+.image-1 {
+    width: 500px;
+    height: 200px;
+}
+.tetx-2 {
+    font-size: 22px;
+}
+.linb {
+    text-decoration: none
+}
+.colortext {
+    color: red; /* Червоний колір виділення */
+    font-size: 30px;
+}
+.colortext-2 {
+color: deepskyblue;
+font-size: 30px
+}
